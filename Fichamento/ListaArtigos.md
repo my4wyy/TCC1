@@ -4,7 +4,7 @@
 
 * Archundia-Sierra, Etelvina; Rossainz-López, Mario; Garcés-Báez, José Alfonso del Carmen; Contreras-Juárez, Roberto; Hervás-Gómez, Carlos. "User-Centered Design for Gamification: A Case Study of an Interactive Memory Game to Foster Learning in Preschool Children," in 2025 13th International Conference in Software Engineering Research and Innovation (CONISOFT), IEEE, 2025. doi: https://doi.org/10.1109/CONISOFT66928.2025.00031
 
-* Frantzvaag, Mats Ottem; Chatterjee, Ayan; Ghose, Debasish; Dash, Soumya P. "MusicReco: Interactive Interface Modeling With User-Centered Design in a Music Recommendation System," IEEE, 2024.
+* Frantzvaag, Mats Ottem; Chatterjee, Ayan; Ghose, Debasish; Dash, Soumya P. "MusicReco: Interactive Interface Modeling With User-Centered Design in a Music Recommendation System," IEEE, 2024. https://ieeexplore.ieee.org/abstract/document/10878981
 
 * Shuqfa, Zaid; Lakas, Abderrahmane. "Towards User-Centered Design for Motor Imagery Brain-Computer Interface: From MI-BCI Illiteracy to MI-BCI Unfamiliarity," in 2024 IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), IEEE, 2024. doi: https://doi.org/10.1109/BDCAT63179.2024.00050
 
