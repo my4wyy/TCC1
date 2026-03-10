@@ -4,7 +4,7 @@
 
 3. **Mikropoulos, Tassos A.; Delimitros, Michael; Gaintatzis, Pavlos; Iatraki, Georgia; Stergiouli, Aikaterini; Tsiara, Angeliki.** "Acceptance and User Experience of an Augmented Reality System for the Simulation of Sensory Overload in Children with Autism," *2020 6th International Conference of the Immersive Learning Research Network (iLRN)*, IEEE, 2020. DOI: [10.23919/iLRN47897.2020.9155113](https://doi.org/10.23919/iLRN47897.2020.9155113)
 
-4. **Varier, Ashwin; Malik, Navdeep; Kumari, Khushi; Gireesh, Nandana; Vineetha K V; Ullas S.** "Level Up ASD (Autistic Spectrum Disorder)- Interactive Learning for Autistic Children," *2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)*, IEEE, 2024. DOI: [10.1109/CSITSS64059.2024.10890000](https://doi.org/10.1109/CSITSS64059.2024.10890000)
+4. **Varier, Ashwin; Malik, Navdeep; Kumari, Khushi; Gireesh, Nandana; Vineetha K V; Ullas S.** "Level Up ASD (Autistic Spectrum Disorder)- Interactive Learning for Autistic Children," *2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)*, IEEE, 2024. DOI: [10.1109/CSITSS64059.2024.10890000](https://doi.org/10.1109/CSITSS64042.2024.10816826)
 
 5. **Archundia-Sierra, Etelvina; Rossainz-López, Mario; Garcés-Báez, José Alfonso del Carmen; Contreras-Juárez, Roberto; Hervás-Gómez, Carlos.** "User-Centered Design for Gamification: A Case Study of an Interactive Memory Game to Foster Learning in Preschool Children," *2025 13th International Conference in Software Engineering Research and Innovation (CONISOFT)*, IEEE, 2025. DOI: [10.1109/CONISOFT66928.2025.00031](https://doi.org/10.1109/CONISOFT66928.2025.00031)
 
